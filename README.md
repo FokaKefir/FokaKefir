@@ -26,7 +26,7 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 - ⚡ &nbsp; Not just software - I speak **hardware** too!
 - ✈️ &nbsp; 3x **Erasmus+** adventurer
 - 💻 &nbsp; Explore my creations on [GitHub](https://github.com/FokaKefir)
-- 📄 &nbsp; Grab my [resume](https://raw.githubusercontent.com/FokaKefir/FokaKefir/main/stuff/cv.pdf) 
+- 📄 &nbsp; Grab my [resume](https://raw.githubusercontent.com/FokaKefir/FokaKefir/main/stuff/Babos_David_cv.pdf) 
 - 🤝 &nbsp; **Co-Captain** of a [Student Team](https://www.instagram.com/vodka.land/)
 - 🏔️ &nbsp; Weekends = **nature therapy** 🥾 Camping, hiking, exploring!
 
