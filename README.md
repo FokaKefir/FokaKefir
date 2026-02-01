@@ -1,17 +1,17 @@
 # Eyo, I'm Dávid! 👋
 
-From circuits to code, from algorithms to applications—that's my journey. I'm Dávid, a Master's student specializing in Intelligent Control Systems, where I merge my passion for deep learning, robotics, and Android development. My projects range from life-changing assistive technologies to innovative mobile apps. I believe the best solutions come from curiosity, teamwork, and a never-ending desire to push boundaries. Ready to tackle the next challenge!
-
-
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&width=435&lines=Android+Developer;Deep+Learning+Researcher;Electrical+Engineer)](https://git.io/typing-svg) -->
-
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/babos-d%C3%A1vid-ba9bb5227/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/babos-d%C3%A1vid-ba9bb5227/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K"/></a>
   <a href="https://github.com/FokaKefir"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:babosdavid8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://buymeacoffee.com/babosdavid8"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black"/></a>
 </p>
+
+
+From circuits to code, from algorithms to applications—that's my journey. I'm Dávid, a Master's student specializing in Intelligent Control Systems, where I merge my passion for deep learning, robotics, and Android development. My projects range from life-changing assistive technologies to innovative mobile apps. I believe the best solutions come from curiosity, teamwork, and a never-ending desire to push boundaries. Ready to tackle the next challenge!
+
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=600&width=435&lines=Android+Developer;Deep+Learning+Researcher;Electrical+Engineer)](https://git.io/typing-svg) -->
 
 
 
@@ -60,7 +60,7 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 
 ### 🎲 Random Dev Fact
 
-<div align="center">
+<div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
 
