@@ -30,6 +30,18 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 - 🤝 &nbsp; **Co-Captain** of a [Student Team](https://www.instagram.com/vodka.land/)
 - 🏔️ &nbsp; Weekends = **nature therapy** 🥾 Camping, hiking, exploring!
 
+### Tech arsenal
+
+
+### 📈 Performance Metrics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FokaKefir&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F87171&currStreakLabel=C9D1D9" />
+
+</div>
+
+
 
 ### ☕ Fuel My Code
 
