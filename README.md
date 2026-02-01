@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FokaKefir/FokaKefir/main/stuff/cat.gif" width="320px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/FokaKefir/FokaKefir/main/stuff/cat.gif" width="280px"/>
 
 ### 🧐 More about me:
 
