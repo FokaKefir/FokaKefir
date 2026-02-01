@@ -35,7 +35,7 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 
 **If you like my work, consider supporting me with a coffee!**
 
-<div align="center">
+<div >
     <a href="https://buymeacoffee.com/babosdavid8" target="_blank" >
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
     </a>
