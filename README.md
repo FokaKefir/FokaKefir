@@ -31,7 +31,23 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 - 🏔️ &nbsp; Weekends = **nature therapy** 🥾 Camping, hiking, exploring!
 
 
-<a href="https://buymeacoffee.com/babosdavid8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+### ☕ Fuel My Code
 
+**If you like my work, consider supporting me with a coffee!**
+
+<div align="center">
+    <a href="https://buymeacoffee.com/babosdavid8" target="_blank" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+    </a>
+</div>
+
+*Every coffee helps me stay awake and code more awesome projects! ☕💻*
+
+
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FokaKefir&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
+
