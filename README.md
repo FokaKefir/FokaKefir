@@ -58,7 +58,15 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 
 *Every coffee helps me stay awake and code more awesome projects! ☕💻*
 
+### 🎲 Random Dev Fact
 
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
+
+</div>
+
+---
 
 <div align="center">
 
