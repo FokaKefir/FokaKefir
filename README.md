@@ -17,7 +17,7 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/FokaKefir/FokaKefir/main/stuff/cat.gif" width="270px"/>
 
-## 🧐 More about me:
+### 🧐 More about me:
 
 
 - 🎓 &nbsp; Pursuing **M.Sc.** in [Intelligent Control Systems](https://ms.sapientia.ro/en/admission/masters/intelligent-control-systems) at [Sapientia EMTE](https://ms.sapientia.ro/en/)
