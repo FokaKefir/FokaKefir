@@ -74,8 +74,6 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 
 </div>
 
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FokaKefir&color=58A6FF&style=flat-square&label=Profile+Views)
