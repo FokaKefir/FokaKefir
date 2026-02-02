@@ -79,11 +79,10 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
-*Dad jokes went to code bootcamp 🤔*
 
-</div>
+<p><em>Dad jokes went to code bootcamp 🤔</em></p>
 
-<div align="center">
+<br>
 
 ![Comedy Compile Errors](https://komarev.com/ghpvc/?username=FokaKefir&color=58A6FF&style=flat-square&label=Comedy+Compile+Errors)
 
