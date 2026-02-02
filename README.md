@@ -79,7 +79,6 @@ From circuits to code, from algorithms to applications—that's my journey. I'm 
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=algolia&hideBorder)
-
 *Dad jokes went to code bootcamp 🤔*
 
 </div>
